@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "keyboard_map.h": "c",
+        "kernel.h": "c",
+        "types.h": "c",
+        "screen_driver.h": "c",
+        "idt_init.h": "c",
+        "vga.h": "c",
+        "mem.h": "c"
+    }
+}
